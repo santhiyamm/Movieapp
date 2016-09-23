@@ -1,0 +1,26 @@
+.active{
+  background-color: skyblue;
+  text-color:red;
+}
+body{
+  background-color:grey;
+}
+
+#movie
+{
+  text-align: center;
+}
+#searchbar{
+  text-align: center;
+  text-decoration-color: indigo;
+  font-size: 14;
+}
+#button1{
+  color: black;
+  padding-right:10px;
+}
+#button2{
+  color: black;
+  padding-left:10px;
+
+}
